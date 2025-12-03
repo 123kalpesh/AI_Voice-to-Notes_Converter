@@ -1,0 +1,3 @@
+Placeholder file for Whisper weights.
+The real model weights are downloaded by `openai-whisper` at runtime.
+
